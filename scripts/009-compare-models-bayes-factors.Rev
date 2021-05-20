@@ -1,0 +1,21 @@
+###       Compares 2  models on a fixed tree (after power posteriors are run)
+### First we get estimates of marginal likelihoods from a file containing power posterior distributions
+### It then calculates the Bayes factor for each pair-wise comparison 
+
+### Using the stepping-stone sampler, calculate the marginal likelihoods for each model from the power posteriors
+ss_BM_basic = steppingStoneSampler(file="output/BM_basic_powp.out", powerColumnName="power", likelihoodColumnName="likelihood")
+ss_MB_mv = steppingStoneSampler(file="output/BM_mv_powp.out", powerColumnName="power", likelihoodColumnName="likelihood")
+
+mLnL_m0 <- ss_BM_basic.marginal()
+mLnL_m1 <- ss_MB_mv.marginal()
+
+### pairwise comparisons of each model using Bayes factors
+BF_01 <- mLnL_m0 - mLnL_m1
+
+# https://github.com/revbayes/revbayes_tutorial/blob/master/RB_AncestralStates_Tutorial/Tutorial_2_Part_1.Rev
+# Then we convert to the raw Bayes factor by taking the exponent:
+#
+# BF(mk12, mk1) = e ^ ( ln-Bayes factor )
+
+"BF_01"
+BF_01

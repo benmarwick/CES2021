@@ -1,0 +1,114 @@
+#----------------------------------------------------------------
+# This is RevBayes code, not R, and needs to be run in the terminal
+
+# This code file was downloaded and modified from: 
+# Parins-Fukuchi, Caroline (2017), Data from: Use of continuous 
+# traits can improve morphological phylogenetics, Dryad, 
+# Dataset, https://doi.org/10.5061/dryad.40b70
+
+# The code is cited in this paper: 
+# Caroline Parins-Fukuchi, Use of Continuous Traits Can Improve Morphological 
+# Phylogenetics, Systematic Biology, Volume 67, Issue 2, March 2018, 
+# Pages 328–339, https://doi.org/10.1093/sysbio/syx072
+
+## This is intended to be run on RevBayes v1.0.0
+# v1.0.1 has changed several function names. see RevBayes documentation for more details. 
+# This procedure was developed with the gratuitous aid of RevBayes example documents
+# authored by Nicolas Lartillot, Michael Landis, and April Wright.
+
+# BM: I downloaded RevBayes onto my computer and put in in my Applications folder (OSX)
+
+# Assuming we are in an open RStudio Project, we can 
+# start RevBayes the RStudio terminal with the commmand:
+
+# /Applications/rb
+
+# this should start RevBayes in the project directory 
+
+# run this R code to exectute  "003-RevBayes.Rev" in RevBayes: termId1 <- rstudioapi::terminalExecute('/Applications/rb "003-RevBayes.Rev"')
+
+getwd() # confirm that we are in the project directory where are input/output files are
+
+fl <- "data/data_for_revbayes.nex"  # continuous character set used for analysis in nexus format
+outtr <- "output/tree_trace.trees"   # file to write sampled trees
+outlf <- "output/mcmc_log.txt"      # MCMC log
+outsm <- "output/map_tree.nex"      # MAP summary tree file
+outmc <- "output/mcc_tree.nex"      # MCC summary tree file
+
+# import the data into RevBayes, watch terminal for message indicating success
+contData <- readContinuousCharacterData(fl)
+# the most relevant official tutorial is probably 
+# https://revbayes.github.io/tutorials/cont_traits/simple_bm.html
+
+numTips = contData.ntaxa()
+numNodes = numTips * 2 - 1
+names = contData.names()
+diversification ~ dnLognormal(0,1) # aka 'birth rate' for new varients 
+turnover = 0 # we are going to parameterise the BD prior, 
+# 'The turnover rate is the rate at which one species is replaced by another 
+# species due to a birth plus death event.... the turnover rate represent the 
+# longevity of a species' details: https://revbayes.github.io/tutorials/divrate/simple.html
+speciation := diversification + turnover
+extinction := turnover 
+sampling_fraction <- 1
+
+# instantiate a Birth-Death tree with the parameters set above
+psi ~ dnBDP(lambda=speciation, mu=extinction, rho=sampling_fraction, rootAge=1, samplingStrategy = "uniform", condition = "nTaxa", taxa=names) 
+mvi = 0 # we are going to set tree rearrangement and node height scaling moves
+
+# create our node height and topological rearrangement MCMC moves. These help us to explore
+# the parameter space in each MCMC step. Good notes on these here: 
+# http://www.peterbeerli.com/classes/images/5/5f/RB_CTMC_Tutorial_oct2015.pdf
+moves[++mvi] = mvSubtreeScale(psi, weight=5.0) # change the ages of the internal nodes
+moves[++mvi] = mvNodeTimeSlideUniform(psi, weight=10.0) # change the ages of the internal nodes
+moves[++mvi] = mvNNI(psi, weight=5.0)  # nearest-neighbor interchange move
+moves[++mvi] = mvFNPR(psi, weight=5.0) # a fixed-node height subtree-prune and regrafting move
+
+logSigma ~ dnNormal(0,1) # place a prior on BM sigma parameter.
+sigma := 10^logSigma
+moves[++mvi] = mvSlide(logSigma, delta=1.0, tune=true, weight=2.0)
+
+# For our MCMC analysis, we need to set up a vector of monitors to record 
+# the states of our Markov chain.
+
+monitors[1] = mnScreen(printgen=200, sigma)
+monitors[2] = mnFile(filename=outlf, printgen=100, separator = TAB, sigma)
+monitors[3] = mnFile(filename=outtr, printgen=50,  separator = TAB, psi)
+
+# specify that we are going calculate BM likelihood using the REML PIC algorithm (see Felsenstein 1973)
+# several chapters on fitting BM models here: https://lukejharmon.github.io/pcm/chapters/
+traits ~ dnPhyloBrownianREML(psi, branchRates=1.0, siteRates=sigma, nSites=contData.nchar())
+
+# When this clamp function is called, RevBayes sets each of the stochastic 
+# nodes representing the tips of the tree to the corresponding 
+# nucleotide sequence in the alignment. This essentially 
+# tells the program that we have observed data for the sequences at the tips.
+traits.clamp(contData) # match traits to tips
+
+# we wrap the entire model to provide convenient access to the DAG. 
+# To do this, we only need to give the model() function a 
+# single node. With this node, the model() function can find all of the other
+# nodes by following the arrows in the graphical model (see DOI:10.1093/sysbio/syw021
+# for details of the typical graphical model)
+bmv = model(sigma)     # link sigma param w/ BM model
+
+# With a fully specified model, a set of monitors, and a set of moves, 
+# we can now set up the MCMC algorithm that will sample parameter values in 
+# proportion to their posterior probability. The mcmc() function will
+# create our MCMC object:
+chain = mcmc(bmv, monitors, moves)
+chain.burnin(generations=5000, tuningInterval=500) # originally 50000 and 500
+
+chain.run(500000) # originally 500000
+# To summarize the trees sampled from the posterior distribution, 
+# RevBayes can summarize the sampled trees by reading in the tree-trace file:
+treetrace = readTreeTrace(file = outtr)
+treefl <- outsm
+
+# The mapTree() function will summarize the tree samples and write the 
+# maximum a posteriori tree to file, we can also summarise trees as MCC 
+# (maximum clade credibility) representation 
+map = mapTree( file=treefl, treetrace )
+mccTree( file=outmc, treetrace )
+
+q() # quits RevBayes

@@ -1,0 +1,232 @@
+ID,site,context,municipality,county,country,country_code,paroisse,canton,comte,commune,lat,lng
+UK-01,Lambourn,Tumulus 31,Lambourn,Berkshire,United Kingdom,GB,NA,NA,NA,NA,51.50361,-1.53186
+UK-02,Cheesewring,NA,Linkinhorne,Cornwall,United Kingdom,GB,NA,NA,NA,NA,50.53759,-4.37364
+UK-03,Botrea Hill,NA,Sancreed,Cornwall,United Kingdom,GB,NA,NA,NA,NA,50.10804,-5.61003
+UK-04,Tregulland Burrow,NA,Treneglos,Cornwall,United Kingdom,GB,NA,NA,NA,NA,50.67053,-4.54293
+UK-05,Plym Valley / Deadman's Bottom,NA,Langcombe,Cornwall,United Kingdom,GB,NA,NA,NA,NA,50.57253,-3.91538
+UK-06,Conygar Hill,NA,Dorchester,Dorset,United Kingdom,GB,NA,NA,NA,NA,50.7154,-2.4367
+UK-07,Fordington Farm,Tombe 61,Dorchester,Dorset,United Kingdom,GB,NA,NA,NA,NA,50.7154,-2.4367
+UK-08,Thomas Hardye School,Tombe 1643,Dorchester,Dorset,United Kingdom,GB,NA,NA,NA,NA,50.7154,-2.4367
+UK-09,Cowleaze,Crémation 1,Winterbourne Steepleton,Dorset,United Kingdom,GB,NA,NA,NA,NA,50.70259,-2.54266
+UK-10,Wimborne St. Giles G9,NA,Woodyates,Dorset,United Kingdom,GB,NA,NA,NA,NA,50.97,-1.97
+UK-11,Mucking n° 137,NA,Mucking,Essex,United Kingdom,GB,NA,NA,NA,NA,51.50396,0.42766
+UK-12,Mucking n° 786,NA,Mucking,Essex,United Kingdom,GB,NA,NA,NA,NA,51.50396,0.42766
+UK-13,Easton Lane,Inhumation 2752,Winchester,Hampshire,United Kingdom,GB,NA,NA,NA,NA,51.06513,-1.3187
+UK-14,Olchon Valley,Ciste 1,Llanveynoe,Herefordshire,United Kingdom,GB,NA,NA,NA,NA,51.97539,-3.03551
+UK-15,Wellington Quarry,NA,Marden,Herefordshire,United Kingdom,GB,NA,NA,NA,NA,52.12972,-2.68766
+UK-16,Tring 30,NA,Tring,Hertfordshire,United Kingdom,GB,NA,NA,NA,NA,51.79471,-0.65824
+UK-17,Nodgham,NA,Carisbrooke,Isle of Wight,United Kingdom,GB,NA,NA,NA,NA,50.69276,-1.3175
+UK-18,Chestnuts,NA,Addington,Kent,United Kingdom,GB,NA,NA,NA,NA,51.34391,1.40403
+UK-19,Lord of the Manor 1,Tombe 6,Margate,Kent,United Kingdom,GB,NA,NA,NA,NA,51.38132,1.38617
+UK-20,QEQM Hospital 1,NA,Margate,Kent,United Kingdom,GB,NA,NA,NA,NA,51.38132,1.38617
+UK-21,QEQM Hospital 2,NA,Margate,Kent,United Kingdom,GB,NA,NA,NA,NA,51.38132,1.38617
+UK-22,Aldwincle,Tumulus 1,Aldwincle,Northamptonshire,United Kingdom,GB,NA,NA,NA,NA,52.42533,-0.52173
+UK-23,Raunds,Tumulus 1,Raunds,Northamptonshire,United Kingdom,GB,NA,NA,NA,NA,52.34428,-0.53657
+UK-24,Raunds,Tumulus 1,Raunds,Northamptonshire,United Kingdom,GB,NA,NA,NA,NA,52.34428,-0.53657
+UK-25,Raunds,Tumulus 5,Raunds,Northamptonshire,United Kingdom,GB,NA,NA,NA,NA,52.34428,-0.53657
+UK-26,Letcombe Bassett,Tumulus 290,Letcombe Bassett,Oxfordshire,United Kingdom,GB,NA,NA,NA,NA,51.56344,-1.46238
+UK-27,Summertown,NA,Oxford,Oxfordshire,United Kingdom,GB,NA,NA,NA,NA,51.75222,-1.25596
+UK-28,Barrow Hills,Tombe 203,Radley,Oxfordshire,United Kingdom,GB,NA,NA,NA,NA,51.68746,-1.24025
+UK-29,Barrow Hills,Tombe 950,Radley,Oxfordshire,United Kingdom,GB,NA,NA,NA,NA,51.68746,-1.24025
+UK-30,Barrow Hills,Tombe 4660,Radley,Oxfordshire,United Kingdom,GB,NA,NA,NA,NA,51.68746,-1.24025
+UK-31,Barrow Hills,Tombe 5274,Radley,Oxfordshire,United Kingdom,GB,NA,NA,NA,NA,51.68746,-1.24025
+UK-32,Barrow Hills,Tumulus 4a,Radley,Oxfordshire,United Kingdom,GB,NA,NA,NA,NA,51.68746,-1.24025
+UK-33,Barrow Hills,Tumulus 15,Radley,Oxfordshire,United Kingdom,GB,NA,NA,NA,NA,51.68746,-1.24025
+UK-34,Stanton Harcourt,Tombe II,Stanton Harcourt,Oxfordshire,United Kingdom,GB,NA,NA,NA,NA,51.74919,-1.40179
+UK-35,Sutton,NA,Sutton,Oxfordshire,United Kingdom,GB,NA,NA,NA,NA,NA,NA
+UK-36,Ditchling Road,NA,Brighton,Sussex,United Kingdom,GB,NA,NA,NA,NA,50.82838,-0.13947
+UK-37,Archer d’Amesbury,NA,Amesbury,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.17509,-1.78064
+UK-38,Archers de Boscombe,NA,Amesbury,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.17509,-1.78064
+UK-39,Archer de Stonehenge,NA,Amesbury,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.17509,-1.78064
+UK-40,Avebury 37,NA,Avebury,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.41667,-1.86667
+UK-41,Avebury 46a,NA,Avebury,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.41667,-1.86667
+UK-42,Morgan's Hill / Bishop Cannings 28a,NA,Bishop Cannings,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.377,-1.947
+UK-43,Roundway Hill G5b,NA,Bishop Cannings,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.377,-1.947
+UK-44,Roundway Hill G8,NA,Bishop Cannings,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.377,-1.947
+UK-45,Snail Down,Tombe 19 / “Hunter's Barrow”,Collingbourne Kingston,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.30358,-1.6511
+UK-46,Durrington G67,NA,Durrington,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.19769,-1.80786
+UK-47,Alton Parva / Fighealdean G26,NA,Fighealdean,Witltshire,United Kingdom,GB,NA,NA,NA,NA,NA,NA
+UK-48,Monkton Farleigh 2 / Jug's Grace,NA,Monkton Farleigh,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.38089,-2.27718
+UK-49,Wanborough I / Aldbourne / Popple Church,NA,Wanborough,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.54263,-1.69837
+UK-50,Wilsford G54 / Lake 21,NA,Wilsford,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.29066,-1.87559
+UK-51,Winterbourne Monkton 9,NA,Winterbourne,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.11608,-1.74436
+UK-52,Winterslow Hut / Winterslow 3,NA,Winterslow,Witltshire,United Kingdom,GB,NA,NA,NA,NA,51.09669,-1.65964
+UK-53,Bredon Hill,NA,Bredon,Worcestershire,United Kingdom,GB,NA,NA,NA,NA,52.03008,-2.11671
+UK-54,Creux-es-Faies,NA,Saint-Peter-in-the-Wood,Guernsey,United Kingdom,GB,NA,NA,NA,NA,49.44556,-2.64361
+UK-55,Le Trépied,NA,Saint-Saviour,Guernsey,United Kingdom,GB,NA,NA,NA,NA,49.44972,-2.62389
+UK-56,Les Fouaillages,NA,Vale,Guernsey,United Kingdom,GB,NA,NA,NA,NA,49.49361,-2.52833
+UK-57,Platte Mare,NA,Vale,Guernsey,United Kingdom,GB,NA,NA,NA,NA,49.49361,-2.52833
+UK-58,Bedd Emlyn,Tombe secondaire 3,Clocaenog,Denbighshire,United Kingdom,GB,NA,NA,NA,NA,53.07243,-3.41096
+UK-59,Cefn Goleu Cairn,Crémation 3,Cefn Goleu,Flintshire,United Kingdom,GB,NA,NA,NA,NA,53.14846,-3.23805
+UK-60,Breach Farm,NA,Llanbleddian,Glamorgan (Vale of),United Kingdom,GB,NA,NA,NA,NA,51.48284,-3.62669
+UK-61,Sutton 268',Crémation C,Llandow,Glamorgan (Vale of),United Kingdom,GB,NA,NA,NA,NA,51.44809,-3.49602
+UK-62,Sutton 268',Inhumation 1,Llandow,Glamorgan (Vale of),United Kingdom,GB,NA,NA,NA,NA,51.44809,-3.49602
+UK-63,Gray Hill,NA,Llanfair Discoed,Monmouthshire,United Kingdom,GB,NA,NA,NA,NA,51.62776,-2.80218
+UK-64,Cwm Car,NA,Brecknock,Powys,United Kingdom,GB,NA,NA,NA,NA,51.94612,-3.38887
+UK-65,Twr Gwyn Mawr,NA,Carno,Powys,United Kingdom,GB,NA,NA,NA,NA,52.57272,-3.53818
+UK-66,Sarn-Y-Bryn-Caled,Crémation primaire,Welshpool,Powys,United Kingdom,GB,NA,NA,NA,NA,52.65973,-3.1471
+FR-01,La Motta,NA,Lannion,Côtes-d'Armor,France,FR,NA,NA,NA,NA,48.73255,-3.45542
+FR-02,Crec'h-Perros,NA,Perros-Guirec,Côtes-d'Armor,France,FR,NA,NA,NA,NA,48.81454,-3.43963
+FR-03,Mouden-Bras,NA,Pleudaniel,Côtes-d'Armor,France,FR,NA,NA,NA,NA,48.76644,-3.14033
+FR-04,Rumédon,NA,Ploumiliau,Côtes-d'Armor,France,FR,NA,NA,NA,NA,48.68083,-3.52277
+FR-05,Tossen-Kergourognon,NA,Prat,Côtes-d'Armor,France,FR,NA,NA,NA,NA,48.6775,-3.29638888888889
+FR-06,Tossen-Rugouec,NA,Prat,Côtes-d'Armor,France,FR,NA,NA,NA,NA,48.6775,-3.29638888888889
+FR-07,Brun-Bras,NA,Saint-Adrien,Côtes-d'Armor,France,FR,NA,NA,NA,NA,48.4895,-3.13075
+FR-08,Porz-ar-Saoz,NA,Trémel,Côtes-d'Armor,France,FR,NA,NA,NA,NA,48.6,-3.61667
+FR-09,Tossen-Maharit,NA,Trévérec,Côtes-d'Armor,France,FR,NA,NA,NA,NA,48.65608,-3.05883
+FR-10,Kerodou / Parc-ar-Liou,NA,Beuzec-Cap-Sizun,Finistère,France,FR,NA,NA,NA,NA,48.07556,-4.51189
+FR-11,Coatanéa,NA,Bourg-Blanc,Finistère,France,FR,NA,NA,NA,NA,48.49875,-4.50621
+FR-12,Kergournadec'h,NA,Cléder,Finistère,France,FR,NA,NA,NA,NA,48.66332,-4.10244
+FR-13,Le Rhun / Beuzec-Conq,NA,Concarneau,Finistère,France,FR,NA,NA,NA,NA,47.87536,-3.91896
+FR-14,Ty-Roué 2,NA,Landeleau,Finistère,France,FR,NA,NA,NA,NA,48.2278,-3.72881
+FR-15,Prat-ar-Simon-Pella,NA,Lannilis,Finistère,France,FR,NA,NA,NA,NA,48.57,-4.52196
+FR-16,Kerandrèze,NA,Moëlan-sur-Mer,Finistère,France,FR,NA,NA,NA,NA,47.81396,-3.62875
+FR-17,Grand-Rosmeur,Second dolmen,Penmarc’h,Finistère,France,FR,NA,NA,NA,NA,47.80615,-4.30628
+FR-18,Coatjou-Glas,NA,Plonéis,Finistère,France,FR,NA,NA,NA,NA,48.01731,-4.21049
+FR-19,Cosmaner,NA,Plonéour-Lanvern,Finistère,France,FR,NA,NA,NA,NA,47.90324,-4.28346
+FR-20,Fao-Youen,NA,Plonéour-Lanvern,Finistère,France,FR,NA,NA,NA,NA,47.90324,-4.28346
+FR-21,Kerhué-Bras,NA,Plonéour-Lanvern,Finistère,France,FR,NA,NA,NA,NA,47.90324,-4.28346
+FR-22,Kernic,NA,Plouescat,Finistère,France,FR,NA,NA,NA,NA,48.65668,-4.17471
+FR-23,Kersandy,NA,Plouhinec,Finistère,France,FR,NA,NA,NA,NA,48.01443,-4.48688
+FR-24,Lescongar,NA,Plouhinec,Finistère,France,FR,NA,NA,NA,NA,48.01443,-4.48688
+FR-25,Le Souc'h,NA,Plouhinec,Finistère,France,FR,NA,NA,NA,NA,48.01443,-4.48688
+FR-26,Cazin,NA,Plouigneau,Finistère,France,FR,NA,NA,NA,NA,48.56726,-3.70142
+FR-27,Goarillac'h,NA,Plounévez-Lochrist,Finistère,France,FR,NA,NA,NA,NA,48.61734,-4.21184
+FR-28,Kernonen,NA,Plouvorn,Finistère,France,FR,NA,NA,NA,NA,48.57875,-4.03746
+FR-29,Keruzoret,NA,Plouvorn,Finistère,France,FR,NA,NA,NA,NA,48.57875,-4.03746
+FR-30,Lambader (?),NA,Plouvorn,Finistère,France,FR,NA,NA,NA,NA,48.57875,-4.03746
+FR-31,Kerguévarec,NA,Plouyé,Finistère,France,FR,NA,NA,NA,NA,48.31477,-3.73652
+FR-32,Barnenez,Chambre D,Plouezoc’h,Finistère,France,FR,NA,NA,NA,NA,48.66771,-3.8581
+FR-33,Kerlivit 2,NA,Pouldergat,Finistère,France,FR,NA,NA,NA,NA,48.04307,-4.32737
+FR-34,Kermenhir,NA,Poullan-sur-Mer,Finistère,France,FR,NA,NA,NA,NA,48.08064,-4.41412
+FR-35,Kervini Nord,NA,Poullan-sur-Mer,Finistère,France,FR,NA,NA,NA,NA,48.08064,-4.41412
+FR-36,Kervini Sud,NA,Poullan-sur-Mer,Finistère,France,FR,NA,NA,NA,NA,48.08064,-4.41412
+FR-37,Lothéa,NA,Quimperlé,Finistère,France,FR,NA,NA,NA,NA,47.87215,-3.54994
+FR-38,Limbabu / Creac'h-Morvan,NA,Saint-Thégonnec,Finistère,France,FR,NA,NA,NA,NA,48.52039,-3.94611
+FR-39,Graeoc 2 / Liorzou 2,NA,Saint-Vougay,Finistère,France,FR,NA,NA,NA,NA,48.59472,-4.13797
+FR-40,Le Run,NA,Tréffiagat,Finistère,France,FR,NA,NA,NA,NA,47.80351,-4.26354
+FR-41,La Pierre-Couvretière,NA,Ancenis,Loire-Atlantique,France,FR,NA,NA,NA,NA,47.36667,-1.16667
+FR-42,La Couronne-Blanche,NA,Petit-Auverné,Loire-Atlantique,France,FR,NA,NA,NA,NA,47.61034,-1.29033
+FR-43,Tumulus de la Motte,NA,Pornic,Loire-Atlantique,France,FR,NA,NA,NA,NA,47.11205,-2.08888
+FR-44,Fosse-Yvon,NA,Beaumont-Hague,Manche,France,FR,NA,NA,NA,NA,49.66387,-1.83822
+FR-45,Petit-Mont,Tombe IIIa,Arzon,Morbihan,France,FR,NA,NA,NA,NA,47.54852,-2.88989
+FR-46,Sans provenance,NA,Erdeven,Morbihan,France,FR,NA,NA,NA,NA,47.6421,-3.15706
+FR-47,Coët-a-Tous / Mané-Gragueux,NA,Carnac,Morbihan,France,FR,NA,NA,NA,NA,47.58351,-3.07884
+FR-48,Kercado,NA,Carnac,Morbihan,France,FR,NA,NA,NA,NA,47.58351,-3.07884
+FR-49,Kerlagat,Second dolmen,Carnac,Morbihan,France,FR,NA,NA,NA,NA,47.58351,-3.07884
+FR-50,Kerlescan,NA,Carnac,Morbihan,France,FR,NA,NA,NA,NA,47.58351,-3.07884
+FR-51,La Rogarte,NA,Carnac,Morbihan,France,FR,NA,NA,NA,NA,47.58351,-3.07884
+FR-52,Mané-Roh-en-Tallec,NA,Carnac,Morbihan,France,FR,NA,NA,NA,NA,47.58351,-3.07884
+FR-53,Er-Mar,NA,Crac’h,Morbihan,France,FR,NA,NA,NA,NA,47.61659,-3.00069
+FR-54,Luffang,NA,Crac’h,Morbihan,France,FR,NA,NA,NA,NA,48.61659,-2.00069
+FR-55,Coët-er-Garf,NA,Elven,Morbihan,France,FR,NA,NA,NA,NA,47.7323,-2.58956
+FR-56,Goërem,NA,Gâvres,Morbihan,France,FR,NA,NA,NA,NA,47.69404,-3.35249
+FR-57,Parc-Menhir / Kermario,NA,Groix,Morbihan,France,FR,NA,NA,NA,NA,47.63887,-3.4543
+FR-58,Cruguel,NA,Guidel,Morbihan,France,FR,NA,NA,NA,NA,47.78889,-3.48667
+FR-59,Er-Roh / Kermarker,NA,La Trinité-sur-Mer,Morbihan,France,FR,NA,NA,NA,NA,47.5868,-3.02994
+FR-60,Kervilor,NA,La Trinité-sur-Mer,Morbihan,France,FR,NA,NA,NA,NA,47.5868,-3.02994
+FR-61,Mané-Roullarde,NA,La Trinité-sur-Mer,Morbihan,France,FR,NA,NA,NA,NA,47.5868,-3.02994
+FR-62,Kercadoret,NA,Locmariaquer,Morbihan,France,FR,NA,NA,NA,NA,47.56915,-2.94468
+FR-63,La Table-des-Marchands,NA,Locmariaquer,Morbihan,France,FR,NA,NA,NA,NA,47.56915,-2.94468
+FR-64,Saint-Fiacre,NA,Melrand,Morbihan,France,FR,NA,NA,NA,NA,47.98002,-3.10941
+FR-65,Beg-er-Lann/Fort-Bloqué,NA,Ploemeur,Morbihan,France,FR,NA,NA,NA,NA,47.73333,-3.43333
+FR-66,Port-Fétih/Runélen,NA,Ploemeur,Morbihan,France,FR,NA,NA,NA,NA,47.73333,-3.43333
+FR-67,Saint-Adrien,NA,Ploemeur,Morbihan,France,FR,NA,NA,NA,NA,47.73333,-3.43333
+FR-68,Tuchenn-er-Hroëk,NA,Ploemeur,Morbihan,France,FR,NA,NA,NA,NA,47.73333,-3.43333
+FR-69,Rondossec,NA,Plouharnel,Morbihan,France,FR,NA,NA,NA,NA,47.59804,-3.11274
+FR-70,Mané-Bras,NA,Plouhinec,Morbihan,France,FR,NA,NA,NA,NA,47.69752,-3.25127
+FR-71,Mané-Meur,Second dolmen,Quiberon,Morbihan,France,FR,NA,NA,NA,NA,47.48412,-3.11963
+FR-72,Le Net / Clos-er-Bé,NA,Saint-Gildas-de-Rhuys,Morbihan,France,FR,NA,NA,NA,NA,47.5006,-2.83825
+FR-73,Mané-Han / Le Petit-Kerambel,NA,Saint-Philibert,Morbihan,France,FR,NA,NA,NA,NA,47.58821,-2.99978
+FR-74,Brehuidic,NA,Sarzeau-Brillac,Morbihan,France,FR,NA,NA,NA,NA,47.54091,-2.81667
+FR-75,Loucé,NA,Loucé,Orne,France,FR,NA,NA,NA,NA,48.70273,-0.10175
+FR-76,La Pierre-Levée,NA,Nieul-sur-l'Autise,Vendée,France,FR,NA,NA,NA,NA,46.42322,-0.67944
+FR-77,Le Grand-Bouillac,NA,Saint-Vincent-sur-Jard,Vendée,France,FR,NA,NA,NA,NA,46.41699,-1.55862
+DK-01,Stenilgård,Års,NA,NA,Denmark,DK,Aars,Aars,Aalborg,Vesthimmerland,56.80399,9.51441
+DK-02,Smørup,NA,NA,NA,Denmark,DK,Brorstrup,Aars,Aalborg,Rebild,56.76396,9.64907
+DK-03,Halsmandbro II,NA,NA,NA,Denmark,DK,Ejdrup,Aars,Aalborg,Aalborg,56.89077,9.53918
+DK-04,Lynnerup II,NA,NA,NA,Denmark,DK,Skivum,Aars,Aalborg,Vesthimmerland,56.86606,9.59004
+DK-05,Blære,Couche 6,NA,NA,Denmark,DK,Blære,Aars,Aalborg,Vesthimmerland,56.8641,9.51593
+DK-06,Fandrup,NA,NA,NA,Denmark,DK,Farsø,Gislum,Aalborg,Vesthimmerland,56.77276,9.33925
+DK-07,Fredbjerg,NA,NA,NA,Denmark,DK,Farsø,Gislum,Aalborg,Vesthimmerland,56.77276,9.33925
+DK-08,Foulum,NA,NA,NA,Denmark,DK,Foulum,Gislum,Aalborg,Vesthimmerland,56.496575,9.58391
+DK-09,Rold Mark,NA,NA,NA,Denmark,DK,Rold,Hindsted,Aalborg,Mariagerfjord,56.76668,9.8232
+DK-10,Lundgård,NA,NA,NA,Denmark,DK,Rostrup,Hindsted,Aalborg,Mariagerfjord,56.72926,9.92882
+DK-11,Store Arden,NA,NA,NA,Denmark,DK,Store Arden,Hindsted,Aalborg,Mariagerfjord,56.76115,9.88296
+DK-12,Ulstrup,NA,NA,NA,Denmark,DK,Valsgård,Hindsted,Aalborg,Mariagerfjord,56.67285,9.84885
+DK-13,Hvarre 1,NA,NA,NA,Denmark,DK,Vebbestrup,Hindsted,Aalborg,Mariagerfjord,56.72562,9.82424
+DK-14,Hvarre 2,NA,NA,NA,Denmark,DK,Vebbestrup,Hindsted,Aalborg,Mariagerfjord,56.72562,9.82424
+DK-15,Åle,Tumulus 1,NA,NA,Denmark,DK,Ranum,Slet,Aalborg,Mariagerfjord,56.896423,9.227089
+DK-16,Damgården IV,NA,NA,NA,Denmark,DK,Søften,Vester-Lisbjerg,Århus,Favrskov,56.23801,10.0851
+DK-17,Dyrehavegård,NA,NA,NA,Denmark,DK,Lyngby-Tårbæk,Sokkelund,København,Lyngby-Tårbæk,55.78456,12.50508
+DK-18,Nustrup,NA,NA,NA,Denmark,DK,Nustrup,Gram,Haderslev,Haderslev,55.28356,9.21069
+DK-19,Melbjerg høje,Stubdrup,NA,NA,Denmark,DK,Øster Brønderslev,Børglum,Hjørring,Brønderslev,57.24841,9.99593
+DK-20,Lem,NA,NA,NA,Denmark,DK,Hellevad,Dronninglund,Hjørring,Brønderslev,57.21022,10.1672
+DK-21,Søndersø Nørremark,NA,NA,NA,Denmark,DK,Søndersø,Skovby,Odense,Nordfyns,55.48526,10.2554
+DK-22,Vester-Egesborg,NA,NA,NA,Denmark,DK,Vester-Egesborg,Hammer,Præstø,Næstved,55.15521,11.81821
+DK-23,Marshøj,NA,NA,NA,Denmark,DK,Gjerrild,Djurs Nørre,Randers,Norddjurs,56.51509,10.86391
+DK-24,Thorsø Hede,NA,NA,NA,Denmark,DK,Voldby,Djurs Nørre,Randers,Norddjurs,56.46191,10.86866
+DK-25,Kjeldsminde,NA,NA,NA,Denmark,DK,Årslev,Sønderhald,Randers,Randers,56.39764,10.15032
+DK-26,Lemmer,NA,NA,NA,Denmark,DK,Lime,Sønderhald,Randers,Syddjurs,56.3125,10.52083
+DK-27,Allestrup Vest,Tombe Bz,NA,NA,Denmark,DK,Vejlby,Sønderhald,Randers,Norddjurs,56.38316,10.81514
+DK-28,Allestrup Vest,Tombe Cn,NA,NA,Denmark,DK,Vejlby,Sønderhald,Randers,Norddjurs,56.38316,10.81514
+DK-29,Allestrup Vest,Tombe Eh,NA,NA,Denmark,DK,Vejlby,Sønderhald,Randers,Norddjurs,56.38316,10.81514
+DK-30,Vittrup,Tumulus 3,Tombe A,NA,Denmark,DK,Lindknud,Malt,Ribe,Vejen,55.56594,9.01605
+DK-31,Solbakkegård IV,Tombe GP,NA,NA,Denmark,DK,Bryndum,Skads,Ribe,Esbjerg,55.53593,8.47885
+DK-32,Fredshavn,NA,NA,NA,Denmark,DK,Vorbasse,Slaugs,Ribe,Billund,55.62992,9.08239
+DK-33,Vorbasse 6c,Tombe C2,NA,NA,Denmark,DK,Vorbasse,Slaugs,Ribe,Billund,55.62992,9.08239
+DK-34,Vorbasse 20a,NA,NA,NA,Denmark,DK,Vorbasse,Slaugs,Ribe,Billund,55.62992,9.08239
+DK-35,Slavgård,Tumulus 13,NA,NA,Denmark,DK,Vorbasse,Slaugs,Ribe,Billund,55.62992,9.08239
+DK-36,Ål,NA,NA,NA,Denmark,DK,Ål,Vester Horne,Ribe,Varde,55.62112,8.48069
+DK-37,Ulvehøj,NA,NA,NA,Denmark,DK,Nørre Vium,Bølling,Ringkøbing,Ringkøbing-Skjern,56.03565,8.71646
+DK-38,Vester Egebjerg,NA,NA,NA,Denmark,DK,Ejsing,Ginding,Ringkøbing,Holstebro,56.5218,8.78599
+DK-39,Kirkegårde,NA,NA,NA,Denmark,DK,Assing,Hammerum,Ringkøbing,Herning,56.0114,8.85934
+DK-40,Kvindvad,Tumulus 1,Tombe A,NA,Denmark,DK,Sinding,Hammerum,Ringkøbing,Herning,56.21237,8.85101
+DK-41,Kvindvad,Tumulus 3,NA,NA,Denmark,DK,Sinding,Hammerum,Ringkøbing,Herning,56.21237,8.85101
+DK-42,Kvindvad,Tumulus 4,Tombe B,NA,Denmark,DK,Sinding,Hammerum,Ringkøbing,Herning,56.21237,8.85101
+DK-43,Nøvling Plantage,NA,NA,NA,Denmark,DK,Vildbjerg,Hammerum,Ringkøbing,Herning,56.2,8.76667
+DK-44,Tingerdal,Tumulus 7,Tombe F,NA,Denmark,DK,Borbjerg,Hjerm,Ringkøbing,Holstebro,56.40361,8.75461
+DK-45,Råbjerg Hede,Tumulus 1,Tombe C,NA,Denmark,DK,Fovsing,Hjerm,Ringkøbing,Struer,56.46667,8.53333
+DK-46,Gudum,NA,NA,NA,Denmark,DK,Gudum,Skodborg,Ringkøbing,Lemvig,56.51579,8.47536
+DK-47,Roesgård,Rom,NA,NA,Denmark,DK,Gudum,Skodborg,Ringkøbing,Lemvig,56.51579,8.47536
+DK-48,Øster Herupgård,NA,NA,NA,Denmark,DK,Dybe,Vandfuld,Ringkøbing,Lemvig,56.51254,8.16926
+DK-49,Rammedige,NA,NA,NA,Denmark,DK,Ramme,Vandfuld,Ringkøbing,Lemvig,56.4907,8.21286
+DK-50,Trust,Tumulus 12,NA,NA,Denmark,DK,Tvilum,Gjern,Skanderborg,Silkeborg,56.24354,9.67367
+DK-51,Tvilum,Tombe CS,NA,NA,Denmark,DK,Tvilum,Gjern,Skanderborg,Silkeborg,56.24354,9.67367
+DK-52,Tvilum,Tombe CT,NA,NA,Denmark,DK,Tvilum,Gjern,Skanderborg,Silkeborg,56.24354,9.67367
+DK-53,Karolinelund,Tombe A,NA,NA,Denmark,DK,Voel,Gjern,Skanderborg,Silkeborg,56.19107,9.69405
+DK-54,Karolinelund,Tombe F,NA,NA,Denmark,DK,Voel,Gjern,Skanderborg,Silkeborg,56.19107,9.69405
+DK-55,Vinding,Tombe O,NA,NA,Denmark,DK,Vinding,Tyrsting,Skanderborg,Silkeborg,56.02285,9.56698
+DK-56,Østbirk,Tombe 4,NA,NA,Denmark,DK,Østbirk,Voer,Skanderborg,Horsens,55.96482,9.75556
+DK-57,Plovstrup,NA,NA,NA,Denmark,DK,Tørring,Vrads,Skanderborg,Hedensted,55.85,9.48333
+DK-58,Ølmose Huse,NA,NA,NA,Denmark,DK,Haraldsted,Ringsted,Sorø,Ringsted,55.48532,11.79287
+DK-59,Juelsberg,NA,NA,NA,Denmark,DK,Avnslev,Vindinge,Svendborg,Nyborg,55.29473,10.7031
+DK-60,Visby,Tombe N8,NA,NA,Denmark,DK,Visby,Hassing,Thisted,Thisted,57.0688,8.70523
+DK-61,Bjergby,NA,NA,NA,Denmark,DK,Bjergby,Morsø Nørre,Thisted,Morsø,56.86788,8.73446
+DK-62,Højsager,NA,NA,NA,Denmark,DK,Bjergby,Morsø Nørre,Thisted,Morsø,56.86788,8.73446
+DK-63,Trinddøjs,NA,NA,NA,Denmark,DK,Lødderup,Morsø Sønder,Thisted,Morsø,56.78189,8.7958
+DK-64,Fjallerslev,Tombe A,NA,NA,Denmark,DK,Ovtrup,Morsø Sønder,Thisted,Morsø,56.78031,8.66447
+DK-65,Rakkeby Hede,NA,NA,NA,Denmark,DK,Rakkeby,Morsø Sønder,Thisted,Morsø,56.76588,8.62293
+DK-66,Odby,Tombe A,NA,NA,Denmark,DK,Odby,Refs,Thisted,Struer,56.60712,8.52567
+DK-67,Tåbel Renseanlæg,NA,NA,NA,Denmark,DK,Vestervig,Refs,Thisted,Thisted,56.76279,8.31942
+DK-68,Vestervig,Tombe C,NA,NA,Denmark,DK,Vestervig,Refs,Thisted,Thisted,56.76279,8.31942
+DK-69,Ellidsbøl,NA,NA,NA,Denmark,DK,Vust,Vester Han,Thisted,Jammerbugt,57.11193,9.07039
+DK-70,Løsning,NA,NA,NA,Denmark,DK,Løsning,Hatting,Viborg,Hedensted,55.80236,9.69539
+DK-71,Daugbjerg,NA,NA,NA,Denmark,DK,Daugbjerg,Fjends,Viborg,Viborg,56.43592,9.13141
+DK-72,Kjærgård,NA,NA,NA,Denmark,DK,Fly,Fjends,Viborg,Viborg,56.45319,9.40201
+DK-73,Kobberup,NA,NA,NA,Denmark,DK,Kobberup,Fjends,Viborg,Viborg,56.51539,9.08953
+DK-74,Tastum,NA,NA,NA,Denmark,DK,Kobberup,Fjends,Viborg,Viborg,56.51539,9.08953
+DK-75,Hald By,NA,NA,NA,Denmark,DK,Ørslevkloster,Fjends,Viborg,Skive,56.6,9.23333
+DK-76,Vridsted,NA,NA,NA,Denmark,DK,Vridsted,Fjends,Viborg,Skive,56.44421,9.00639
+DK-77,Nissum,NA,NA,NA,Denmark,DK,Åsted,Harre,Viborg,Skive,56.76978,8.99082
+DK-78,Roslev,NA,NA,NA,Denmark,DK,Roslev,Harre,Viborg,Skive,56.70387,8.98638
+DK-79,Hvinningdal III,Tombe A,NA,NA,Denmark,DK,Balle,Hids,Viborg,Silkeborg,56.1697,9.54508
+DK-80,Hvinningdal III,Tombe B,NA,NA,Denmark,DK,Balle,Hids,Viborg,Silkeborg,56.1697,9.54508
+DK-81,Grove,NA,NA,NA,Denmark,DK,Brøndum,Hindborg,Viborg,Skive,56.58504,8.90879
+DK-82,Tolstrup,Tombe centrale,NA,NA,Denmark,DK,Dølby,Hindborg,Viborg,Skive,56.6076,8.98099
+DK-83,Savstrupgård,NA,NA,NA,Denmark,DK,Oddense,Hindborg,Viborg,Skive,56.65366,8.93329
+DK-84,Bøgeskov,Tombe C,NA,NA,Denmark,DK,Gullev,Houlbjerg,Viborg,Viborg,56.35291,9.68189
+DK-85,Kistrup,NA,NA,NA,Denmark,DK,Løvel,Nørlyng,Viborg,Viborg,56.53377,9.4698
+DK-86,Rærup,NA,NA,NA,Denmark,DK,Grinderslev,Nørre,Viborg,Skive,56.69918,9.0674
+DK-87,Thise / Puushøi,NA,NA,NA,Denmark,DK,Thise,Nørre,Viborg,Skive,56.72098,9.13421
+DK-88,Sønder Andrup,NA,NA,NA,Denmark,DK,Ramsing,Rødding,Viborg,Skive,56.59579,8.84253

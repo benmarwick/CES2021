@@ -1,0 +1,1112 @@
+Iteration	Posterior	Likelihood	Prior	X
+0	-2946.263	-2525.587	-420.6757	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+50	10207.77	10898.42	-690.6494	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+100	12373.88	12933.62	-559.742	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+150	13570.23	14099.38	-529.1486	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+200	14092.44	14652.24	-559.799	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+250	14429.62	15003.07	-573.4462	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+300	14752.91	15332.91	-579.9923	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+350	14934.91	15503.71	-568.7979	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+400	15136.52	15695.5	-558.9759	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+450	15296.29	15861.81	-565.5225	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+500	15376.44	15960.68	-584.2412	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+550	15437.92	16034.56	-596.6368	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+600	15500.07	16070.95	-570.8812	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+650	15540.55	16126.49	-585.9434	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+700	15603.23	16181.47	-578.2356	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+750	15659.67	16197.82	-538.1441	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+800	15650.61	16233.59	-582.9825	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+850	15729.66	16260.97	-531.3078	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+900	15742.62	16275.38	-532.7606	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+950	15807.16	16353.69	-546.5277	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1000	15846.84	16410.52	-563.6858	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1050	15872.48	16452.3	-579.8257	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1100	15911.95	16461.39	-549.4449	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1150	15966.49	16490.26	-523.7708	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1200	16023.97	16553.18	-529.2132	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1250	16032.85	16568.49	-535.6362	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1300	16039.82	16594.03	-554.2088	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1350	16061.06	16630.39	-569.3319	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1400	16066.29	16618.45	-552.1603	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1450	16104.76	16641.23	-536.4692	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1500	16119.63	16691.04	-571.4061	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1550	16158.59	16691.53	-532.9463	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1600	16156.27	16723.74	-567.4728	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1650	16197.31	16754.23	-556.917	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1700	16204.51	16750.59	-546.0734	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1750	16217.09	16784.49	-567.4007	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1800	16226.83	16795.18	-568.3489	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1850	16255.68	16795.83	-540.1457	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1900	16235.45	16786.15	-550.7003	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+1950	16258.38	16809.92	-551.5356	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2000	16247.99	16798.42	-550.4304	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2050	16261.22	16827.05	-565.8291	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2100	16298.45	16824.3	-525.8505	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2150	16303.78	16846.52	-542.7421	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2200	16309.38	16840.4	-531.0229	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2250	16331.63	16856.87	-525.2399	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2300	16337.73	16873.14	-535.4172	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2350	16348.18	16874.53	-526.3578	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2400	16355.32	16893.98	-538.6666	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2450	16383.13	16917.7	-534.5669	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2500	16407.94	16932.05	-524.1104	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2550	16437.67	16969.87	-532.1949	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2600	16441.24	16970.34	-529.094	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2650	16454.25	16993.16	-538.9043	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2700	16442.83	16997.35	-554.5176	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2750	16438.57	17010.32	-571.7492	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2800	16441.09	16979.82	-538.7295	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2850	16462.07	17000.43	-538.3567	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2900	16459.43	17021.43	-561.995	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+2950	16456.45	17010.43	-553.9741	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3000	16497.97	17023.29	-525.3224	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3050	16471.29	17021.67	-550.385	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3100	16493.89	17023.65	-529.7595	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3150	16489.26	17021.67	-532.4059	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3200	16487.68	17018.5	-530.8248	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3250	16464.57	17023.66	-559.0853	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3300	16509.39	17006.44	-497.0538	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3350	16515.47	17007.46	-491.9881	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3400	16506.29	17012.22	-505.9366	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3450	16479.74	17001.81	-522.0671	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3500	16503.5	17000.37	-496.8688	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3550	16516.06	17020.5	-504.4353	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3600	16489.86	17007.13	-517.2682	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3650	16503.83	17026.65	-522.823	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3700	16501.96	17012.21	-510.252	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3750	16507.65	17036.07	-528.4121	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3800	16530.69	17036.06	-505.3707	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3850	16520.86	17056.36	-535.494	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3900	16517.98	17069.72	-551.7377	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+3950	16533.29	17067.3	-534.0054	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4000	16546.76	17069.56	-522.7964	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4050	16553.65	17062.82	-509.1703	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4100	16546.68	17055.89	-509.2057	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4150	16546.24	17078.32	-532.0801	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4200	16561.88	17085.95	-524.0671	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4250	16555.98	17080.5	-524.52	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4300	16567.86	17118.01	-550.1545	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4350	16567.35	17084.63	-517.2844	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4400	16565.57	17072.83	-507.2559	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4450	16553.54	17056.9	-503.3633	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4500	16561.54	17050.81	-489.2614	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4550	16560.37	17066.17	-505.8013	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4600	16567.99	17082.75	-514.7621	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4650	16586.44	17091.15	-504.7133	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4700	16606.42	17129.56	-523.144	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4750	16592.96	17101.12	-508.1505	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4800	16585.68	17085.95	-500.2635	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4850	16592.5	17099.44	-506.9428	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4900	16584.6	17115.46	-530.8638	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+4950	16609.8	17133.21	-523.4118	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
+5000	16592.19	17119.74	-527.5449	
+Continuous character matrix with 129 taxa and 39 characters
+===========================================================
+Origination:                   data_for_revbayes.nex
+Number of taxa:                129
+Number of included taxa:       129
+Number of characters:          39
+Number of included characters: 39
+Datatype:                      Continuous
+
+
