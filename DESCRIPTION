@@ -1,0 +1,25 @@
+Type: Compendium
+Package: bayesinfcultphylogcontraits
+Title: Bayesian inference of material culture phylogenies using continuous traits from the archaeological record
+Version: 0.0.1
+Authors@R: 
+    person(given = "Ben",
+           family = "Marwick",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "0000-0001-7879-4531"))
+Description: Code and data to support our CES2021 presentation
+License: MIT + file LICENSE
+Depends: 
+    bookdown,
+    cowplot,
+    devtools,
+    git2r,
+    here,
+    knitr,
+    likert,
+    readxl,
+    rmarkdown,
+    tidyverse
+Encoding: UTF-8
+LazyData: true
