@@ -4,8 +4,8 @@ library(RevGadgets)
 # R package RevGadgets.
   
 # read in the tree annotated with the branch rates:
-log_file <- "output/relaxed_multivariate_BM_run_1.log"
-tree <- readTrees("output/relaxed_multivariate_BM_MAP.tre")
+log_file <- here("output/relaxed_multivariate_BM_run_1.log")
+tree <- readTrees(here("output/relaxed_multivariate_BM_MAP.tre"))
 
 
 RevGadgets::plotTree(tree, 
@@ -16,10 +16,10 @@ RevGadgets::plotTree(tree,
          color_branch_by="branch_rates") +
   theme(legend.position = c(0.2, 0.8))
 
-ggsave("figures/branch_rates_tree_fr_period_mvBM.png",
+ggsave(here("figures/branch_rates_tree_fr_period_mvBM.png"),
        h = 10, w = 10)
 
-phy_mvBM <- ape::read.tree( "output/relaxed_multivariate_BM.trees" )
+phy_mvBM <- ape::read.tree( here("output/relaxed_multivariate_BM.trees" ))
 
 
 # phangorn::densiTree(phy_mvBM, type = "phylogram", cex = 0.5)
@@ -35,7 +35,7 @@ ggdensitree(phy_mvBM,
                   color = Period)) +
   geom_treescale() 
 
-ggsave("figures/densitree_tree_fr_period_mvBM.png",
+ggsave(here("figures/densitree_tree_fr_period_mvBM.png"),
        h = 15, w = 7)
 
 

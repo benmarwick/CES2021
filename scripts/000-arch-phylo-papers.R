@@ -4,7 +4,7 @@ library(tidyverse)
 library(lubridate)
 
 arch_phylo_papers <- 
-  readxl::read_excel(here::here("CES2021/data/Archaeology phylogenetics case studies.xlsx"))
+  readxl::read_excel(here::here("data/Archaeology phylogenetics case studies.xlsx"))
 
 # papers per year
 ggplot(arch_phylo_papers) +
@@ -13,7 +13,7 @@ ggplot(arch_phylo_papers) +
   theme_minimal(base_size = 14) +
   labs(x = "")
 
-ggsave(here::here("CES2021/figures/arch-phylo-papers-per-year-plot.png"),
+ggsave(here::here("figures/arch-phylo-papers-per-year-plot.png"),
        w = 10,
        h = 3)
 
@@ -50,7 +50,7 @@ ggplot(arch_phylo_papers_long) +
   theme_minimal(base_size = 14) +
   labs(x = "")
 
-ggsave(here::here("CES2021/figures/arch-phylo-papers-panel-plot.png"),
+ggsave(here::here("figures/arch-phylo-papers-panel-plot.png"),
        w = 5,
        h = 10)
 
@@ -122,7 +122,7 @@ ggplot(statnet, aes(x = x, y = y, xend = xend, yend = yend)) +
                  colour = gender)) +
   theme_blank()
 
-ggsave(here::here("CES2021/figures/arch-phylo-papers-network.png"),
+ggsave(here::here("figures/arch-phylo-papers-network.png"),
        w = 10,
        h = 10)
   

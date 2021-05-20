@@ -1,11 +1,12 @@
 library(tidyverse)
 library(ggplot2)
 library(ggtree)
+library(here)
 
 # inspect MCMC trace
 
 library(RevGadgets)
-mcmc_trace <- readTrace("output/mcmc_log.txt")
+mcmc_trace <- readTrace(here("output/mcmc_log.txt"))
 
 ggplot(mcmc_trace[[1]]) +
   aes(Iteration, 
@@ -16,7 +17,7 @@ plotTrace(mcmc_trace, vars = "sigma")
 
 # explore some plotting methods
 
-outsumfile <- ape::read.nexus("output/map_tree.nex")
+outsumfile <- ape::read.nexus(here("output/map_tree.nex"))
 
 # this is only possible if we are looking at the FR subset, the other 
 # regions don't have so much chrono data
@@ -48,14 +49,14 @@ ggtree(outsumfile) %<+% tip_labels +  # names_artefacts_ID_and_period_unite +
   theme_tree2(plot.margin=margin(6, 120, 6, 6)) +
   theme(legend.position = c(0.2, 0.9))
 
-ggsave("figures/map_tree_fr_period.png",
+ggsave(here("figures/map_tree_fr_period.png"),
        h = 15, w = 7)
 
 
 # https://cran.r-project.org/web/packages/MCMCtreeR/vignettes/MCMCtree_plot.html
 library(MCMCtreeR, quietly = TRUE, warn.conflicts = FALSE)
 
-outsumfile.rb <-"output/map_tree.nex"
+outsumfile.rb <-here("output/map_tree.nex")
 
 MCMC.tree.plot(analysis.type='revbayes',
                directory.files=outsumfile.rb, 
@@ -77,7 +78,7 @@ MCMC.tree.plot(
   add.time.scale=FALSE)
 
 # read in the tree space
-phy <- ape::read.tree( "output/tree_trace.trees" )
+phy <- ape::read.tree(here() "output/tree_trace.trees" ) )
 
 # write it out to a format that crsl4/PhyloNetworks.jl can read
 # cf. https://crsl4.github.io/PhyloNetworks.jl/latest/man/inputdata/
@@ -97,7 +98,7 @@ ggdensitree(phy,
                   color = Period)) +
   geom_treescale() 
 
-ggsave("figures/densitree_tree_fr_period.png",
+ggsave(here("figures/densitree_tree_fr_period.png"),
        h = 11, w = 7)
 
 
@@ -109,10 +110,10 @@ plot(phangorn::maxCladeCred(phy), cex = 0.5)
 library(RevGadgets)
 
 outtree.rb <- readTrees(outsumfile.rb)
-ape::write.tree(outtree.rb[[1]][[1]]@phylo, "output/out.trees")
+ape::write.tree(outtree.rb[[1]][[1]]@phylo, here("output/out.trees"))
 
-outtree.rb1 <- readTrees("output/out.trees")
-outtree.rb2 <- readTrees("output/tree_trace.trees")
+outtree.rb1 <- readTrees(here("output/out.trees"))
+outtree.rb2 <- readTrees(here("output/tree_trace.trees"))
 
 plot(outtree.rb1[[1]][[1]]@phylo)
 
@@ -142,11 +143,11 @@ library(cowplot)
 # use treespace
 res <- treespace::treespace(phy, nf=3)
 
-png("figures/treespace_tree_fr_period.png")
+png(here("figures/treespace_tree_fr_period.png"))
 plotGroves(res$pco, lab.show=F, lab.cex=1.5)
 dev.off()
 
-png("figures/treespace_cluster_fr_period.png")
+png(here("figures/treespace_cluster_fr_period.png"))
 wm.groves <- findGroves(res, nclust = 3)
 plotGroves(wm.groves)
 dev.off()
@@ -188,7 +189,7 @@ ggtree(tr1) %<+% tip_labels +  # names_artefacts_ID_and_period_unite +
   theme_tree2(plot.margin=margin(6, 120, 6, 6)) +
   theme(legend.position = c(0.2, 0.9))
 
-ggsave("figures/median_1_tree_fr_period.png",
+ggsave(here("figures/median_1_tree_fr_period.png"),
        h = 7, w = 7)
 
 ggtree(tr2) %<+% tip_labels +  # names_artefacts_ID_and_period_unite + 
@@ -201,7 +202,7 @@ ggtree(tr2) %<+% tip_labels +  # names_artefacts_ID_and_period_unite +
   theme_tree2(plot.margin=margin(6, 120, 6, 6)) +
   theme(legend.position = c(0.2, 0.9))
 
-ggsave("figures/median_2_tree_fr_period.png",
+ggsave(here("figures/median_2_tree_fr_period.png"),
        h = 7, w = 7)
 
 ggtree(tr3) %<+% tip_labels +  # names_artefacts_ID_and_period_unite + 
@@ -214,7 +215,7 @@ ggtree(tr3) %<+% tip_labels +  # names_artefacts_ID_and_period_unite +
   theme_tree2(plot.margin=margin(6, 120, 6, 6)) +
   theme(legend.position = c(0.2, 0.9))
 
-ggsave("figures/median_3_tree_fr_period.png",
+ggsave(here("figures/median_3_tree_fr_period.png"),
        h = 7, w = 7)
 
 

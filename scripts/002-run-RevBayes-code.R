@@ -17,14 +17,14 @@ row.names(data_for_revbayes) <-
 
 # write a nex file for input into RevBayes, just get a few PCs?
 write.nexus.data(as.matrix(data_for_revbayes),
-                 file.path("data/data_for_revbayes.nex"),
+                 file.path(here("data/data_for_revbayes.nex")),
                  format = "continuous")
 
 # save this for ASR
 data_for_revbayes %>% 
   as.data.frame() %>% 
   rownames_to_column() %>% 
-  write_csv("data/data_for_revbayes.csv")
+  write_csv(here("data/data_for_revbayes.csv"))
 
 # run RevBayes file to set up and run model, output is exported as files 
 # to data directory

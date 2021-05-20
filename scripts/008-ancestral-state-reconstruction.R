@@ -2,10 +2,10 @@
 library(phytools)
 
 ## read tree from file
-anc.tree <- ape::read.nexus("output/map_tree.nex")
+anc.tree <- ape::read.nexus(here("output/map_tree.nex"))
 
 ## read data
-anc.data <- read.csv("data/data_for_revbayes.csv", 
+anc.data <- read.csv(here("data/data_for_revbayes.csv"), 
                      row.names=1)
 ## change this into a vector
 anc.data.1    <- as.matrix(anc.data)[,1]
@@ -27,7 +27,7 @@ obj<-contMap(anc.tree,
 n <- length(obj$cols)
 obj$cols[1:n] <- viridis::viridis(n)
 
-png("figures/anc_recon_example.png",
+png(here("figures/anc_recon_example.png"),
     height = 15,
     width = 10,
     units = "in",
@@ -35,7 +35,7 @@ png("figures/anc_recon_example.png",
 plot(obj)
 dev.off()
 
-ggsave("figures/anc_recon_example_single.png",
+ggsave(here("figures/anc_recon_example_single.png"),
        h = 10, w = 8)
 
 
@@ -62,7 +62,7 @@ n <- length(x$contMaps[[i]]$cols)
 x$contMaps[[i]]$cols[1:n] <- viridis::viridis(n)
 }
 
-png("figures/anc_recon_example_multiple.png",
+png(here("figures/anc_recon_example_multiple.png"),
     height = 10,
     width = 10,
     units = "in",

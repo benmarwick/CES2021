@@ -1,6 +1,7 @@
 # from https://github.com/yesdavid/designspace_culttax_article_2021/blob/main/2_script/3_code_late_neolithic_early_bronze_age.R
 # with minor modifications
 
+library(here)
 library(cluster)
 library(ggplot2)
 library(readr)
@@ -10,7 +11,7 @@ library(maptree)
 library(ggimage)
 library(phangorn)
 library(rworldmap)
-library(raster)
+library(raster) 
 library(NbClust)
 
 if (!requireNamespace("ggtree", quietly = TRUE)){
@@ -25,7 +26,7 @@ if (!requireNamespace("ggtree", quietly = TRUE)){
 } else {library(ggtree)}
 
 
-outlines_combined_nicolas_2016 <- readRDS(file = file.path("data/outlines_combined_nicholas_2016.RDS"))
+outlines_combined_nicolas_2016 <- readRDS(file = file.path(here("data/outlines_combined_nicholas_2016.RDS")))
 
 
 outlines_combined_nicolas_2016_centered <- 
@@ -40,7 +41,7 @@ outlines_combined_nicolas_2016_centered_scaled <-
 
 # unification of outlines with catalogue-dataframe
 nicolas_fleches_2016_catalog_ids_coordinates <- 
-  readr::read_csv(file = "data/nicolas_fleches_2016_catalog_ids_with_coordinates.csv")
+  readr::read_csv(file = here("data/nicolas_fleches_2016_catalog_ids_with_coordinates.csv"))
 
 outlines_combined_nicolas_2016_names <- 
   names(outlines_combined_nicolas_2016_centered_scaled)
@@ -225,7 +226,7 @@ gg_nicolas$gg +
         axis.text.y=element_blank(),
         axis.ticks.y=element_blank())
 
-ggsave("figures/nicolas_arrowheads_pca_contrib.png",
+ggsave(here("figures/nicolas_arrowheads_pca_contrib.png"),
        h = 10, w = 8)
 
 
@@ -272,7 +273,7 @@ legend("bottomleft",
 ############################# NJ typochronology ############################# 
 
 
-typochronologie_csv <- readr::read_csv("data/nicolas_2017_typochronologie.csv")
+typochronologie_csv <- readr::read_csv(here("data/nicolas_2017_typochronologie.csv"))
 
 typochronologie_csv <- dplyr::distinct(typochronologie_csv, ID_country, .keep_all = T)
 
